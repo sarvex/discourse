@@ -368,7 +368,7 @@ GEM
       rspec-expectations (~> 2.99.0)
       rspec-mocks (~> 2.99.0)
     rtlit (0.0.5)
-    ruby-openid (2.5.0)
+    ruby-openid (2.9.2)
     ruby-readability (0.7.0)
       guess_html_encoding (>= 0.0.4)
       nokogiri (>= 1.6.0)
