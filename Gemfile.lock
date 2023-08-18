@@ -237,6 +237,7 @@ GEM
       net-ssh (>= 2.6.5)
     net-ssh (2.9.2)
     netrc (0.10.3)
+    nio4r (2.5.9)
     nokogiri (1.6.8.1)
       mini_portile2 (~> 2.1.0)
     nokogumbo (1.2.0)
@@ -293,8 +294,8 @@ GEM
       pry (>= 0.9.10, < 0.11.0)
     pry-rails (0.3.3)
       pry (>= 0.9.10)
-    puma (2.11.1)
-      rack (>= 1.1, < 2.0)
+    puma (6.3.1)
+      nio4r (~> 2.0)
     qunit-rails (0.0.7)
       railties
     rack (1.5.5)
